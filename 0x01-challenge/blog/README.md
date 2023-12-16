@@ -1,4 +1,4 @@
-# README
+# README file for blog application
 
 Blog application:
 
